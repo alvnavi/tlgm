@@ -1,0 +1,6 @@
+{
+  "name": "TeleGuard",
+  "description": "Cliente modular de Telegram con cifrado ECDH, GPG y AES",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
